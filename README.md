@@ -46,7 +46,7 @@ If you\'re on MacOS, you can install Pipenv easily with Homebrew:
 
     $ brew install pipenv
 
-Or, if you\'re using Fedora 28:
+Or, if you\'re using Fedora 28/29:
 
     $ sudo dnf install pipenv
 
